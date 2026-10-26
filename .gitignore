@@ -1,0 +1,6 @@
+# Synced project references are managed outside this repository.
+/sources/
+/AGENTS.md
+
+# Local system files.
+.DS_Store
